@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Deep Reinforcement Learning for Coastal Multi-Hazard Emergency Response (DRL-EWS v1.0.0)"
+version: 1.0.0
+date-released: "2026-04-23"
+license: MIT
+repository-code: "https://github.com/marcellosano/drl-coastal-ews"
+authors:
+  - family-names: Sano
+    given-names: Marcello
+    affiliation: >-
+      Department of Environmental Sciences, Informatics and Statistics,
+      Ca' Foscari University of Venice, Italy;
+      CMCC Foundation, Euro-Mediterranean Centre on Climate Change, Italy;
+      Griffith University, Gold Coast, Australia
+  - family-names: Ferrario
+    given-names: Davide Mauro
+    affiliation: >-
+      Department of Environmental Sciences, Informatics and Statistics,
+      Ca' Foscari University of Venice, Italy;
+      CMCC Foundation, Euro-Mediterranean Centre on Climate Change, Italy
+  - family-names: Torresan
+    given-names: Silvia
+    affiliation: >-
+      Department of Environmental Sciences, Informatics and Statistics,
+      Ca' Foscari University of Venice, Italy;
+      CMCC Foundation, Euro-Mediterranean Centre on Climate Change, Italy;
+      National Biodiversity Future Center (NBFC), Palermo, Italy
+  - family-names: Critto
+    given-names: Andrea
+    affiliation: >-
+      Department of Environmental Sciences, Informatics and Statistics,
+      Ca' Foscari University of Venice, Italy;
+      CMCC Foundation, Euro-Mediterranean Centre on Climate Change, Italy
+preferred-citation:
+  type: article
+  title: >-
+    A Deep Reinforcement Learning Framework for Operational Coastal
+    Multi-Hazard Emergency Response
+  authors:
+    - family-names: Sano
+      given-names: Marcello
+    - family-names: Ferrario
+      given-names: Davide Mauro
+    - family-names: Torresan
+      given-names: Silvia
+    - family-names: Critto
+      given-names: Andrea
+  journal: "Environmental Modelling & Software"
+  year: 2026
+  status: under-review
