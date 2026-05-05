@@ -4,7 +4,7 @@ A simulation-based deep reinforcement learning framework that trains an agent to
 
 Accompanying code for:
 
-> Sano, M., Ferrario, D.M., Torresan, S., Critto, A. (2026). *A Deep Reinforcement Learning Framework for Operational Coastal Multi-Hazard Emergency Response*. Environmental Modelling & Software. *(under review)*
+> Sano, M., Ferrario, D.M., Torresan, S., Critto, A. (2026). *A Deep Reinforcement Learning Framework for Operational Coastal Multi-Hazard Emergency Response* *(under review)*
 
 ---
 
